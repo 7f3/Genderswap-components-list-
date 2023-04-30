@@ -8,9 +8,9 @@
 |           Pink Flames Wraps           |        Gray Wool Beanie        |               Hats -> Beanies              |
 |          Purple Flames Wraps          |         Ice Wool Beanie        |               Hats -> Beanies              |
 |            Red Flames Wraps           |        Beige Wool Beanie       |               Hats -> Beanies              |
-|      Magenta Leopard Güffy Wraps     |      Chocolate Wool Beanie     |               Hats -> Beanies              |
-|       Cyan Leopard Güffy Wraps       |      Burgundy Wool Beanie      |               Hats -> Beanies              |
-|       Moss Leopard Güffy Wraps       |      Hot Pink Wool Beanie      |               Hats -> Beanies              |
+|      Magenta Leopard Güffy Wraps      |      Chocolate Wool Beanie     |               Hats -> Beanies              |
+|       Cyan Leopard Güffy Wraps        |      Burgundy Wool Beanie      |               Hats -> Beanies              |
+|       Moss Leopard Güffy Wraps        |      Hot Pink Wool Beanie      |               Hats -> Beanies              |
 |          Blue Lightning Wraps         |       Scarlet Wool Beanie      |               Hats -> Beanies              |
 |         White Lightning Wraps         |       Orange Wool Beanie       |               Hats -> Beanies              |
 |         Green Lightning Wraps         |        Amber Wool Beanie       |               Hats -> Beanies              |

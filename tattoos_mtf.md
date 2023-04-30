@@ -25,8 +25,8 @@
 |      Prolaps T-Shirt      |        Toxic Spider       | Unlocks Special Brands |  50  |
 |      Meltdown T-Shirt     |          Scorpion         | Unlocks Special Movies |  51  |
 |        Golf T-Shirt       |        Stunt Skull        | Unlocks Special Brands |  52  |
-|   Black LD Organics Tee   |    Rocket Launcher Girl   |  Unlocks Special Brands|   10 |
-|    Whie LD Organics Tee   |        Up-n-Atomizer      |  Unlocks Special Brands|   11 |
+|   Black LD Organics Tee   |    Rocket Launcher Girl   | Unlocks Special Brands |   10 |
+|    Whie LD Organics Tee   |        Up-n-Atomizer      | Unlocks Special Brands |   11 |
 |        Rampage Tee        |     Music is The Remedy   | Unlocks Special Unlocks|   15 |
 |Rockstar Games Typeface Tee|        Skeleton Shot      | Unlocks Special Unlocks|   16 |
 | Yellow Still Slipping Tee |       Scratch Panther     | Unlocks Special Unlocks|   17 |
@@ -34,15 +34,15 @@
 |   Black Ammu-Nation Tee   |         Blood Money       | Unlocks Special Unlocks|   37 |
 |       Black Coil Tee      |        Spiked Skull       | Unlocks Special Unlocks|   38 |
 |      Black Shrewsbury     |          Bandolier        | Unlocks Special Unlocks|   39 |
-|     Manopause T-Shirt     |       Moonlight Ride      |  Unlocks Special Brands|   57 |
-|     Toe Shoes T-Shirt     |           Big Cat         |  Unlocks Special Brands|   58 |
-|     Maisonette T-Shirt    |        8 Eyed Skull       |  Unlocks Special Brands|   59 |
-|     Splatter and Shot     |       Skeleton Party      |  Unlocks Special Movies|   61 |
-|      Knife After Dark     |         Love Hustle       |  Unlocks Special Movies|   62 |
+|     Manopause T-Shirt     |       Moonlight Ride      | Unlocks Special Brands |   57 |
+|     Toe Shoes T-Shirt     |           Big Cat         | Unlocks Special Brands |   58 |
+|     Maisonette T-Shirt    |        8 Eyed Skull       | Unlocks Special Brands |   59 |
+|     Splatter and Shot     |       Skeleton Party      | Unlocks Special Movies |   61 |
+|      Knife After Dark     |         Love Hustle       | Unlocks Special Movies |   62 |
 |     Knuckleduster Tee     |          Ascension        | Unlocks Special Unlocks|   18 |
 |        Wasted! Tee        |        Ballas 4 Life      | Unlocks Special Unlocks|   19 |
 |       LS Customs Tee      |           Peacock         | Unlocks Special Unlocks|   20 |
-|  Money See Monkey Die Tee |        Hood Skeleton      |  Unlocks Special Arcade|   21 |
+|  Money See Monkey Die Tee |        Hood Skeleton      | Unlocks Special Arcade |   21 |
 |Black Exsorbeo 720 Logo Tee|        Smile Glitch       | Unlocks Special Unlocks|   27 |
 |     Black Rockstar Tee    |         Skeleton Dj       | Unlocks Special Unlocks|   28 |
 |Rockstar Logo White Out Tee|           Mutiny          | Unlocks Special Unlocks|   48 |

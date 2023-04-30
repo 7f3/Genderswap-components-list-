@@ -137,12 +137,12 @@
 |           Woodland Yeti Flat Cap           |          Beige Cardigan         |            Tops -> Cardigans           |
 |              Green FB Flat Cap             |        Chocolate Cardigan       |            Tops -> Cardigans           |
 |              Blue FB Flat Cap              |        Burgundy Cardigan        |            Tops -> Cardigans           |
-|            Gray Lézard Flat Cap           |        Hot Pink Cardigan        |            Tops -> Cardigans           |
-|           Green Lézard Flat Cap           |         Scarlet Cardigan        |            Tops -> Cardigans           |
-|        Light Plaid Lézard Flat Cap        |        Tangerine Cardigan       |            Tops -> Cardigans           |
-|         Dark Plaid Lézard Flat Cap        |          Amber Cardigan         |            Tops -> Cardigans           |
-|       White Striped Lézard Flat Cap       |          Lemon Cardigan         |            Tops -> Cardigans           |
-|        Red Striped Lézard Flat Cap        |       Royal Blue Cardigan       |            Tops -> Cardigans           |
+|            Gray Lézard Flat Cap            |        Hot Pink Cardigan        |            Tops -> Cardigans           |
+|           Green Lézard Flat Cap            |         Scarlet Cardigan        |            Tops -> Cardigans           |
+|        Light Plaid Lézard Flat Cap         |        Tangerine Cardigan       |            Tops -> Cardigans           |
+|         Dark Plaid Lézard Flat Cap         |          Amber Cardigan         |            Tops -> Cardigans           |
+|       White Striped Lézard Flat Cap        |          Lemon Cardigan         |            Tops -> Cardigans           |
+|        Red Striped Lézard Flat Cap         |       Royal Blue Cardigan       |            Tops -> Cardigans           |
 |            Brown Crevis Flat Cap           |          Azure Cardigan         |            Tops -> Cardigans           |
 |            Gray Crevis Flat Cap            |          Teal Cardigan          |            Tops -> Cardigans           |
 |            Black Broker Flat Cap           |          Cyan Cardigan          |            Tops -> Cardigans           |
